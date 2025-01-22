@@ -7,3 +7,4 @@
 # MENTOR NAME: Vaishali
 # ENTER DESCRIPTION OF TASK PERFORMED NOT LESS THAN 500 WORDS
 # Circuit Digram Of the Task
+![Image](https://github.com/user-attachments/assets/182b2cfc-fe3f-4397-b408-2efbe8a51b77)
