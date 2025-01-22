@@ -8,3 +8,6 @@
 # ENTER DESCRIPTION OF TASK PERFORMED NOT LESS THAN 500 WORDS
 # Circuit Digram Of the Task
 ![Image](https://github.com/user-attachments/assets/182b2cfc-fe3f-4397-b408-2efbe8a51b77)
+
+# OUTPUT
+https://github.com/user-attachments/assets/d665d161-9135-4a36-83fa-2b0726f2fd6f
