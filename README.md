@@ -20,6 +20,10 @@ This simulation represents a microcontroller-based control system utilizing an A
 2. Based on the received commands, the Arduino sets its digital output pins (8, 9, and 10) HIGH or LOW to control the transistors.
 3. When a digital pin goes HIGH, the corresponding transistor switches on, energizing the associated relay coil.
 4. The relay contacts close, completing the circuit for the connected load device (e.g., light bulb, buzzer, or LED), which then operates.
+
+# Software Requirement:
+1. Proteus 8
+2. Arduino IDE
    
 # Circuit Digram Of the Task
 ![Image](https://github.com/user-attachments/assets/182b2cfc-fe3f-4397-b408-2efbe8a51b77)
