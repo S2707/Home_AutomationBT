@@ -24,6 +24,7 @@ This simulation represents a microcontroller-based control system utilizing an A
 # Software Requirement:
 1. Proteus 8
 2. Arduino IDE
+3. BT_Display
    
 # Circuit Digram Of the Task
 ![Image](https://github.com/user-attachments/assets/182b2cfc-fe3f-4397-b408-2efbe8a51b77)
